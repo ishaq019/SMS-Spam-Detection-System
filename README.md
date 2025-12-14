@@ -1,11 +1,5 @@
 
-```markdown
-# 📧 SMS Spam Classification Engine
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Library](https://img.shields.io/badge/Library-Scikit--Learn-orange)
-![Framework](https://img.shields.io/badge/Framework-Streamlit-red)
-![Status](https://img.shields.io/badge/Status-Complete-green)
 
 A robust machine learning pipeline and web application designed to classify SMS messages as **Spam** or **Ham (Legitimate)** with high precision. This project addresses the challenge of imbalanced text data by utilizing NLP techniques and a probabilistic classifier to minimize false positives.
 
